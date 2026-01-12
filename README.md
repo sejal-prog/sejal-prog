@@ -1,47 +1,66 @@
-# Hey, I'm sejal 👋
+# sejal jadhav
 
-## A tech enthusiast
-
-- 🔭 I’m currently working on Group CNN
-- 🌱 I’m currently pursuing Masters in Computer Science
-- 📫 reach out to me @ [sejalace7@gmail.com](mailto:sejalace7@gmail.com)
-
-## Stack
-
-### Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### ML/AI & Data Science
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+**ML Engineer** • Computer Vision • Deep Learning
 
 ---
 
-## 📫 Connect with me
+### 🎯 What i do
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sejal-jadhav)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sejalace7@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sejal-prog)
+building intelligent vision systems • deploying production ML models • exploring generative AI
+
+### 💻 tech stack
+
+```python
+skills = {
+    "ml_frameworks": ["TensorFlow", "PyTorch", "Scikit-learn"],
+    "computer_vision": ["OpenCV", "YOLO", "Vision Transformers", "SAM"],
+    "generative_ai": ["GPT", "BERT", "GANs", "Stable Diffusion"],
+    "mlops": ["Docker", "AWS", "MLflow", "Git"],
+    "languages": ["Python", "C++", "JavaScript"]
+}
+```
+
+<details>
+<summary>📚 <b>core competencies</b></summary>
+<br>
+
+**Deep Learning & Neural Networks**
+- CNNs, RNNs, Transformers
+- Transfer Learning & Fine-tuning
+- Model Optimization & Quantization
+
+**Computer Vision**
+- Object Detection (YOLO, Faster R-CNN)
+- Image Segmentation (SAM, U-Net)
+- Visual Recognition & Classification
+
+**MLOps & Production**
+- Model Deployment & Serving
+- CI/CD for ML Pipelines
+- Cloud Infrastructure (AWS, Azure)
+
+**Data Science**
+- Feature Engineering
+- Model Evaluation & Validation
+- Data Preprocessing & Augmentation
+
+</details>
 
 ---
 
 <div align="center">
-  
-### 💡 "Building intelligent systems, one commit at a time"
+
+<img src="https://github-readme-stats.vercel.app/api?username=sejal-prog&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=00ff00&icon_color=00ff00&text_color=ffffff" alt="stats" height="160"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sejal-prog&theme=dark&hide_border=true&background=000000&ring=00ff00&fire=00ff00&currStreakLabel=00ff00" alt="streak" height="160"/>
+
+</div>
+
+---
+
+<div align="center">
+
+**📫 [email](mailto:sejalace7@gmail.com) • [linkedin](https://linkedin.com/in/sejal-jadhav) • [university of freiburg](https://uni-freiburg.de)**
+
+![](https://komarev.com/ghpvc/?username=sejal-prog&style=flat-square&color=green)
 
 </div>
