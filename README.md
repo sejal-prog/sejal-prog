@@ -1,15 +1,15 @@
-# hey, i'm sejal 👋
+# Hey, I'm sejal 👋
 
-### machine learning engineer | computer vision enthusiast
+### Machine Learning engineer | Computer Vision enthusiast
 
-- 🤖 building intelligent systems with deep learning & computer vision
-- 🔬 exploring generative AI and vision transformers
-- 🎯 focused on production-ready ML solutions
-- 📫 reach out @ [sejalace7@gmail.com](mailto:sejalace7@gmail.com)
+- 🤖 Building intelligent systems with deep learning & computer vision
+- 🔬 Exploring generative AI and vision transformers
+- 🎯 Focused on production-ready ML solutions
+- 📫 Reach out @ [sejalace7@gmail.com](mailto:sejalace7@gmail.com)
 
 ---
 
-## 🧠 core expertise
+## 🧠 Core expertise
 
 **Machine Learning & Deep Learning**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -31,18 +31,6 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
-
-<div align="center">
-
-## 📊 github stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=sejal-prog&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sejal-prog&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="170"/>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sejal-prog&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
-
-</div>
 
 ---
 
