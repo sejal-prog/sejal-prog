@@ -1,4 +1,4 @@
-# hey, i'm sejal 👋
+# Hey, I'm sejal 👋
 
 ## a tech enthusiast
 
@@ -45,16 +45,6 @@
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-  
-![](https://github-profile-trophy.vercel.app/?username=sejal-prog&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-</div>
-
----
-
 ## 📫 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sejal-jadhav)
@@ -66,7 +56,5 @@
 <div align="center">
   
 ### 💡 "Building intelligent systems, one commit at a time"
-
-![Profile Views](https://komarev.com/ghpvc/?username=sejal-prog&color=blueviolet&style=for-the-badge)
 
 </div>
