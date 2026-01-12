@@ -1,12 +1,12 @@
 # Hey, I'm sejal 👋
 
-## a tech enthusiast
+## A tech enthusiast
 
 - 🔭 I’m currently working on Group CNN
 - 🌱 I’m currently pursuing Masters in Computer Science
 - 📫 reach out to me @ [sejalace7@gmail.com](mailto:sejalace7@gmail.com)
 
-## stack
+## Stack
 
 ### Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -30,18 +30,6 @@
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
----
-
-<div align="center">
-  
-## 📊 GitHub Stats
-
-![Sejal's GitHub stats](https://github-readme-stats.vercel.app/api?username=sejal-prog&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sejal-prog&layout=compact&theme=radical)](https://github.com/sejal-prog)
-
-</div>
 
 ---
 
