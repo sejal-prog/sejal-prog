@@ -21,7 +21,6 @@
 ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
 ![GPT](https://img.shields.io/badge/GPT-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![BERT](https://img.shields.io/badge/BERT-FF9900?style=for-the-badge&logo=google&logoColor=white)
-![GPT](https://img.shields.io/badge/GPT-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LLaMA](https://img.shields.io/badge/LLaMA-8B5CF6?style=for-the-badge&logo=ai&logoColor=white)
 
 **Data & Analytics**  
